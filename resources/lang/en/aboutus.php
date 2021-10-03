@@ -1,0 +1,32 @@
+<?php
+
+return
+[
+	'arTitle' => 'Arabic Title',
+	'enTitle' => 'English Title',
+	'arDesc' => 'Arabic Description',
+	'enDesc' => 'English Description',
+	'arMeta' => 'Arabic Metakeyword',
+	'enMeta' => 'English Metakeyword',
+	'featureoneAr' => 'First Feature in Arabic',
+	'featureoneEn' => 'First Feature in English',
+	'featuretwoAr' => 'Second Feature in Arabic',
+	'featuretwoEn' => 'Second Feature in English',
+	'featurethreeAr' => 'Third Feature in Arabic',
+	'featurethreeEn' => 'Third Feature in English',
+	'phone1' => 'Phone',
+	'phone2' => 'Another Phone',
+	'email' => 'Email Address',
+	'logo' => 'Logo',
+	'status' => 'Status',
+	'StatusOn' => 'On',
+	'StatusOff' => 'Off',
+	'favIcon' => 'Site Fav Icon',
+	'banner' => 'Banner',
+	'slider' => 'Slider',
+	'ArMetaDesc' => 'Arabic Meta Description',
+	'enMetaDesc' => 'English Meta Description',
+	'phoneabout' => 'Phone Number',
+	'Photoone' => 'First Photo',
+	'Phototwo' => 'Second Photo',
+];
